@@ -149,7 +149,7 @@ Image/Figure Context (if any):
 {image_context}
 
 User Question: {user_question}
-Answer ONLY based on the document context above. Do not use external knowledge.
+Answer ONLY based on the document context above. DO NOT use external knowledge at all.
 Please provide a comprehensive and well-structured answer based on the document content. If the question is about technical concepts, architecture, or diagrams, explain them clearly using the provided context. Be specific and informative."""
 
         payload = {
