@@ -2,7 +2,7 @@
 
 A sophisticated document-grounded chatbot that processes PDFs and audio files, extracting both text and images for intelligent question-answering using Retrieval-Augmented Generation (RAG) architecture.
 
-![Demo](images/Image1.png)
+![Demo](images/Image2.png)
 
 ## ⭐ Features
 
